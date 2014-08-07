@@ -15,5 +15,5 @@ Or even worse you have to write codes from scratch. For engineers including me, 
 
 As blogging technologies advance, many of engineers share their experiences like problems you solved, opinions about tech trends, knowledge of 
 techniques, etc, which becomes anthoer option for those who have problems with their work or want to learn more from experienced ones.
-Being in the engineering world, I have benefited much from all of these resources, making me think of one day I will be one of them to help others
+Being in the engineering world, I have benefited greatly from all of these resources, making me think of one day I will be one of them to help others
 on the same path. And now it is my beginning.

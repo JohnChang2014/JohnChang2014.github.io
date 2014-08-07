@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "test"
+title: "The Magic Block in Ruby"
 date: 2014-05-15 22:51:09 -0400
 comments: true
-categories: [CSS, HTML]
+categories: [Ruby]
 published: true
 ---
-I have been working in Ruby ecosystem for one year long.
-In her 42 years of living in Southern California, Sophie Payne of Carlsbad has "never, never, never" witnessed so many wildfires at one time.
+
 <!-- more -->
 Three dozen raged overnight. Eight of them continued to burn Thursday in a patchwork across of San Diego County, ravaging 10,000 acres since Tuesday, and killing at least one person. Payne's hilltop house was an exhibit of their destruction: It was burned to the ground, except for a stone archway and several walls.
 "This is my dream house, and what can I say," she said, looking at the destruction to the three-bedroom, four-bathroom house. "Now it's all gone."

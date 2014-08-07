@@ -8,6 +8,7 @@ categories: [other]
 As an engineer, I certainly can code without any help but not always come up with best solutions. 
 In the meantime, how you call for a help becomes a must for every engineer. 
 
+<!-- more -->
 Remember that when I got stuck in errors of the program I was working on, I always google or visit tech forums to look for answers.
 Sometimes there is a better solution that fits your need. Then say we are lucky. However, if there is no solution but
 something very close to what you want, you probably have to revise the code on top of it to complete your task. 

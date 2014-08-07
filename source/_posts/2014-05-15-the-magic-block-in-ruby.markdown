@@ -4,7 +4,7 @@ title: "The Magic Block in Ruby"
 date: 2014-05-15 22:51:09 -0400
 comments: true
 categories: [Ruby]
-published: true
+published: false
 ---
 
 <!-- more -->

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://JohnChang2014.github.io/sitemap.xml 
+Sitemap: http://johnchang.tw/sitemap.xml 

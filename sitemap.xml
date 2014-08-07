@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://JohnChang2014.github.io/blog/archives/</loc>
-        <lastmod>2014-05-15T17:45:42-04:00</lastmod>
+        <loc>http://johnchang.tw/blog/2014/05/04/just-a-start/</loc>
+        <lastmod>2014-08-07T15:53:39-07:00</lastmod>
     </url>
     <url>
-        <loc>http://JohnChang2014.github.io/</loc>
-        <lastmod>2014-05-15T17:45:42-04:00</lastmod>
+        <loc>http://johnchang.tw/blog/archives/</loc>
+        <lastmod>2014-08-07T15:53:39-07:00</lastmod>
     </url>
     <url>
-        <loc>http://JohnChang2014.github.io/robots.txt</loc>
-        <lastmod>2014-05-15T17:45:42-04:00</lastmod>
+        <loc>http://johnchang.tw/</loc>
+        <lastmod>2014-08-07T15:53:39-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://johnchang.tw/robots.txt</loc>
+        <lastmod>2014-05-15T14:45:42-07:00</lastmod>
     </url>
 </urlset>
